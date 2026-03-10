@@ -90,3 +90,4 @@ Freight cost significantly impacts product margin.
 •	order by price desc
 •	limit 5;
 
+<img width="1671" height="956" alt="image" src="https://github.com/user-attachments/assets/079e3eeb-d67b-4568-b6b2-40b6a8d31cc3" />
